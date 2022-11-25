@@ -1,1 +1,2 @@
-# NYU-SUMMER-2021
+# Econ Project: Volatility of Ethereum
+Jerry Zhang
